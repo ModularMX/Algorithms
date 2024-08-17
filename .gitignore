@@ -3,3 +3,4 @@ makefile
 !app/queue.*
 !app/scheduler.*
 !.gitignore
+!README.md
